@@ -1,0 +1,6 @@
+A simple GStreamer plugin which applies a colour conversion LUT to a stream. This example implements my Mill Colour iPhone app's "cross-processed" look.
+
+== Installation
+
+This should be added to gst-plugins-good package, in a directory named "gst/millcolor".
+
